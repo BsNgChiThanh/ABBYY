@@ -12,7 +12,7 @@
 
 [Link Vắc xin](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_tk/EnShtJlLNypMhsmLvu-b8ZkBUKBhI3bsbwmgw6eH0jXPQg?e=BC3JLX)
 
-## HƯỚNG DẪN CÀI ##
+## HƯỚNG DẪN CÀI ĐẶT ##
 
 Sau khi tải về bạn cài đặt [ABBYY 15](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_tk/ES6pAKtdIWlFj07a8L7pEJ4BzwXHX1KnZwsMWjBBTV5M-Q?e=bMSU2W) như bình thường, sau đó vô Vắc xin copy file: [Awl.dll](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_tk/EcO282XzRcpAhWtYaV1Pg9YBHS3wlHKMfYkKXq6UaM6fYg?e=eRS6KM), [AppStatisticSender.exe](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_tk/ET_IXrIumUdHiZ1eX2JirogBoOLEkEIsrTG57E5Y4FXHvQ?e=6NmmxT), [FineUpdate.exe](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_tk/EbcabtfeSn9MhM13UGDu2DMBkQw6iXOKqR3hZ83vi83Nsg?e=Flo7gW) vào đường dẫn C:\Program Files (x86)\ABBYY FineReader 15
 
