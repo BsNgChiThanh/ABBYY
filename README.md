@@ -2,11 +2,11 @@
 
 **ABBYY FineReader 15 là một phần mềm mạnh mẽ giúp người dùng có thể chỉnh sửa các tệp PDF. Tính năng OCR sẽ giúp bạn có thể chuyển đổi hình ảnh thành văn bản với các định dạng phổ biến như PDF, Word một cách nhanh chóng giúp bạn tiết kiệm rất nhiều thời gian**
 
-Nhận diện OCR: Tính năng nhận diện này (gọi là nhận dạng ký tự quang học) giúp bạn chuyển đổi file hình ảnh thành văn bản. Từ đó, bạn có thể thao tác chỉnh sửa nội dung, thay đổi hình ảnh, phông chữ, note ghi chú như đối với văn bản thông thường. Tính năng này giúp tiết kiệm thời gian chuyển đổi các tài liệu rất hiệu quả chỉ với vài thao tác đơn giản, rất hữu ích với nhân viên văn phòng.
+**Nhận diện OCR: Tính năng nhận diện này (gọi là nhận dạng ký tự quang học) giúp bạn chuyển đổi file hình ảnh thành văn bản. Từ đó, bạn có thể thao tác chỉnh sửa nội dung, thay đổi hình ảnh, phông chữ, note ghi chú như đối với văn bản thông thường. Tính năng này giúp tiết kiệm thời gian chuyển đổi các tài liệu rất hiệu quả chỉ với vài thao tác đơn giản, rất hữu ích với nhân viên văn phòng**
 
-Chỉnh sửa nội dung PDF: Định dạng văn bản PDF thường khó chỉnh sửa nội dung hoặc nếu có thể sửa cũng bị giới hạn các công cụ hỗ trợ. Finereader 15 cung cấp tới người dùng rất nhiều công cụ với chức năng chỉnh sửa tuyệt vời mà không gây khó khăn trong quá trình sử dụng vì giao diện của chúng giống như các phần mềm Office thông thường.
+**Chỉnh sửa nội dung PDF: Định dạng văn bản PDF thường khó chỉnh sửa nội dung hoặc nếu có thể sửa cũng bị giới hạn các công cụ hỗ trợ. Finereader 15 cung cấp tới người dùng rất nhiều công cụ với chức năng chỉnh sửa tuyệt vời mà không gây khó khăn trong quá trình sử dụng vì giao diện của chúng giống như các phần mềm Office thông thường**
 
-Chuyển đổi sang các định dạng file khác: ABBYY FineReader có thể chuyển đổi file PDF thành Word hoặc các định dạng khác trong một số trường hợp nhất định.
+**Chuyển đổi sang các định dạng file khác: ABBYY FineReader có thể chuyển đổi file PDF thành Word hoặc các định dạng khác trong một số trường hợp nhất định**
 
 [Link tải về bấm vào đây](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_tk/ES6pAKtdIWlFj07a8L7pEJ4BTMRw72jQiEtn-G2NGZqliQ?e=ugbFhK)
 
