@@ -8,15 +8,24 @@
 
 **Chuyển đổi sang các định dạng file khác: ABBYY FineReader có thể chuyển đổi file PDF thành Word hoặc các định dạng khác trong một số trường hợp nhất định**
 
-[Link tải về bấm vào đây](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_tk/ES6pAKtdIWlFj07a8L7pEJ4BTMRw72jQiEtn-G2NGZqliQ?e=ugbFhK)
+[Link tải về bấm vào đây](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_onmicrosoft_com/ES6pAKtdIWlFj07a8L7pEJ4BTMRw72jQiEtn-G2NGZqliQ?e=ugbFhK)
 
-[Link Vắc xin](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_tk/EnShtJlLNypMhsmLvu-b8ZkBUKBhI3bsbwmgw6eH0jXPQg?e=BC3JLX)
+[Link Vắc xin](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_onmicrosoft_com/EnShtJlLNypMhsmLvu-b8ZkBUKBhI3bsbwmgw6eH0jXPQg?e=BC3JLX)
 
 ## HƯỚNG DẪN CÀI ĐẶT ##
 
-Sau khi tải về bạn cài đặt [ABBYY 15](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_tk/ES6pAKtdIWlFj07a8L7pEJ4BzwXHX1KnZwsMWjBBTV5M-Q?e=bMSU2W) như bình thường, sau đó vô Vắc xin copy file: [Awl.dll](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_tk/EcO282XzRcpAhWtYaV1Pg9YBHS3wlHKMfYkKXq6UaM6fYg?e=eRS6KM), [AppStatisticSender.exe](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_tk/ET_IXrIumUdHiZ1eX2JirogBoOLEkEIsrTG57E5Y4FXHvQ?e=6NmmxT), [FineUpdate.exe](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_tk/EbcabtfeSn9MhM13UGDu2DMBkQw6iXOKqR3hZ83vi83Nsg?e=Flo7gW), [Del_Lic_Serv.bat](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_tk/EQmyy-pEgqVCoqANllKUIDQB5bhumDeGpUkR712P2tMQiQ?e=RBPrcW) vào đường dẫn C:\Program Files (x86)\ABBYY FineReader 15
+Tải về bạn cài đặt [ABBYY 15](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_onmicrosoft_com/ES6pAKtdIWlFj07a8L7pEJ4BzwXHX1KnZwsMWjBBTV5M-Q?e=bMSU2W) như bình thường
 
-Sau đó chặn update bằng cách chạy file [FineUpdate.exe](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_tk/EbcabtfeSn9MhM13UGDu2DMBkQw6iXOKqR3hZ83vi83Nsg?e=Flo7gW) với quyền Run as admimistrator!
+Sau đó vô Vắc xin copy file:
+
+- [Awl.dll](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_onmicrosoft_com/EcO282XzRcpAhWtYaV1Pg9YBHS3wlHKMfYkKXq6UaM6fYg?e=eRS6KM)
+- [AppStatisticSender.exe](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_onmicrosoft_com/ET_IXrIumUdHiZ1eX2JirogBoOLEkEIsrTG57E5Y4FXHvQ?e=6NmmxT)
+- [FineUpdate.exe](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_onmicrosoft_com/EbcabtfeSn9MhM13UGDu2DMBkQw6iXOKqR3hZ83vi83Nsg?e=Flo7gW)
+- [Del_Lic_Serv.bat](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_onmicrosoft_com/EQmyy-pEgqVCoqANllKUIDQB5bhumDeGpUkR712P2tMQiQ?e=RBPrcW)
+
+Dán vào đường dẫn C:\Program Files (x86)\ABBYY FineReader 15
+
+Sau đó chặn update bằng cách chạy file [FineUpdate.exe](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_onmicrosoft_com/EbcabtfeSn9MhM13UGDu2DMBkQw6iXOKqR3hZ83vi83Nsg?e=Flo7gW) với quyền Run as admimistrator!
 
 ## HƯỚNG DẪN SỬ DỤNG ##
 
