@@ -1,3 +1,7 @@
+Tác giả: Nguyễn Chí Thành
+
+![IMG_1674314482411_1674314628494](https://user-images.githubusercontent.com/82578024/231749370-cff3f452-4349-46bd-80e4-dd85653ca27f.jpg)
+
 # ABBYY
 
 **ABBYY FineReader 15 là một phần mềm mạnh mẽ giúp người dùng có thể chỉnh sửa các tệp PDF. Tính năng OCR sẽ giúp bạn có thể chuyển đổi hình ảnh thành văn bản với các định dạng phổ biến như PDF, Word một cách nhanh chóng giúp bạn tiết kiệm rất nhiều thời gian**
