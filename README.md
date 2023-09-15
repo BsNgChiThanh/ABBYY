@@ -30,7 +30,7 @@ Tác giả: Nguyễn Chí Thành
 
 [Link Vắc xin](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_onmicrosoft_com/EnShtJlLNypMhsmLvu-b8ZkBUKBhI3bsbwmgw6eH0jXPQg?e=BC3JLX)
 
-## HƯỚNG DẪN CÀI ĐẶT ##
+## HƯỚNG DẪN CÀI ĐẶT ABBYY 15 ##
 
 Tải về bạn cài đặt [ABBYY 15](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_onmicrosoft_com/ES6pAKtdIWlFj07a8L7pEJ4BzwXHX1KnZwsMWjBBTV5M-Q?e=bMSU2W) như bình thường
 
