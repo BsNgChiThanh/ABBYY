@@ -2,7 +2,21 @@ Tác giả: Nguyễn Chí Thành
 
 ![IMG_1674314482411_1674314628494](https://user-images.githubusercontent.com/82578024/231749370-cff3f452-4349-46bd-80e4-dd85653ca27f.jpg)
 
-# ABBYY
+# [ABBYY 16](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_onmicrosoft_com/EoOIThnJW0lDos4wHHF0bWQBCeTvht-LG0Rjpp58xLho-w?e=YvWsfb) #
+
+- Download [tại đây](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_onmicrosoft_com/EoOIThnJW0lDos4wHHF0bWQBCeTvht-LG0Rjpp58xLho-w?e=YvWsfb).
+- Giải nén ta được:
+
+   ![image](https://github.com/BsNgChiThanh/ABBYY/assets/82578024/508089c9-9e42-4229-8b09-9ff387972458)
+
+- Chạy file cài đặt: ABBYY.FineReader.PDF.16.v16.0.14.7295-full.exe
+- Cài xong chạy file: RESTORE SERVICE.cmd dưới quyền **Run as admimistrator!**
+- Giao diện:
+- ![image](https://github.com/BsNgChiThanh/ABBYY/assets/82578024/6b6108e2-14f6-43ea-80b6-25ce69857988)
+- ![image](https://github.com/BsNgChiThanh/ABBYY/assets/82578024/feca1e2b-9e90-49d7-8226-d8d5953fe056)
+- Chọn lựa theo mục đích của mình.
+
+# ABBYY 15 #
 
 **ABBYY FineReader 15 là một phần mềm mạnh mẽ giúp người dùng có thể chỉnh sửa các tệp PDF. Tính năng OCR sẽ giúp bạn có thể chuyển đổi hình ảnh thành văn bản với các định dạng phổ biến như PDF, Word một cách nhanh chóng giúp bạn tiết kiệm rất nhiều thời gian**
 
