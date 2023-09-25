@@ -11,6 +11,7 @@ Tác giả: Nguyễn Chí Thành
 
 - Chạy file cài đặt: ABBYY.FineReader.PDF.16.v16.0.14.7295-full.exe
 - Cài xong chạy file: RESTORE SERVICE.cmd dưới quyền **Run as admimistrator!**
+- Truong hop loi khong cai duoc bam chuot phai vao RESTORE SERVICE.cmd chon Run administrator roi cai lai binh thuong
 - Giao diện:
 - ![image](https://github.com/BsNgChiThanh/ABBYY/assets/82578024/6b6108e2-14f6-43ea-80b6-25ce69857988)
 - ![image](https://github.com/BsNgChiThanh/ABBYY/assets/82578024/feca1e2b-9e90-49d7-8226-d8d5953fe056)
