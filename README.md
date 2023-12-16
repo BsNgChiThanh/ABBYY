@@ -2,20 +2,18 @@ Tác giả: Nguyễn Chí Thành
 
 ![IMG_1674314482411_1674314628494](https://user-images.githubusercontent.com/82578024/231749370-cff3f452-4349-46bd-80e4-dd85653ca27f.jpg)
 
-# [ABBYY 16](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_onmicrosoft_com/EoOIThnJW0lDos4wHHF0bWQBCeTvht-LG0Rjpp58xLho-w?e=YvWsfb) #
+# [ABBYY 16](https://storage.live.com/downloadfiles/V1/Zip?application=1141147648) #
 
-- Download [tại đây](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_onmicrosoft_com/EoOIThnJW0lDos4wHHF0bWQBCeTvht-LG0Rjpp58xLho-w?e=YvWsfb).
+- Download [tại đây](https://storage.live.com/downloadfiles/V1/Zip?application=1141147648) hoặc [tại đây](https://1drv.ms/f/s!AvB3yOWQ9AZPgTgHmZtSctSDNYh6?e=nn7cbJ)
 - Giải nén ta được:
-
-   ![image](https://github.com/BsNgChiThanh/ABBYY/assets/82578024/508089c9-9e42-4229-8b09-9ff387972458)
-
-- Chạy file cài đặt: ABBYY.FineReader.PDF.16.v16.0.14.7295-full.exe
-- Cài xong chạy file: RESTORE SERVICE.cmd dưới quyền **Run as admimistrator!**
-- Trường hợp lỗi không cài được thì:
-   - Cài C++ 2015-2022 Redistributable x64 (x86)
-   - Sau đó bấm chuột phải vào **RESTORE SERVICE.cmd** chọn **Run administrator**
+   - ![image](https://github.com/BsNgChiThanh/ABBYY/assets/82578024/32dcf941-3688-4f87-8677-65cc0386841d)
+   - Cài C++ 2015-2022 Redistributable x64. Tải về [tại đây](https://public.bl.files.1drv.com/y4mjMU1f2Bx90O64wErFdFeTKSz6WdIWOAzn6KLeOQHWYc9hCyYuSBzj-_0-lGKcOCpYS4LWvvuauODS9D8sfSIqJWmsPbkGoxQ4h-ztbWAEn-9gWGBnKfy1bn3s-w3zm3a2AD5ENWtaenCcFCxuFHQjKmhsBCTfNRxxyo_i-RzBQCmKHVLJppGnMwPdh0PA7AeeKLJgcEwiL5073lYI41YVSu8HrD2PbrNNrmEgHnjM2E?AVOverride=1)
+   - Cài C++ 2015-2022 Redistributable x86. Tải về [tại đây](https://public.bl.files.1drv.com/y4mzu8ol0JMi_b8MsdoH7zmednK5MCzLx4e91vlJRQR4R4v26Y9r0HkqZ4Dq5UBiuNX8IEzaYNm5d8voQGU_tTjauCZv_ld-jpndvP5Jzp4Me_EQpCS03aYPkIOy0JsLD3mWA0JngpeimVyD5izDMrrpEdIASwmraxG5BYUyb3K5kFH1GPZZ1wTkCjMyOEpV9KXyXgNHCOJmu99BaB3PJhPOTpr7nkNp1Xxc8Tbb572GMw?AVOverride=1)
+   - Sau đó bấm chuột phải vào **RESTORE SERVICE.cmd** chọn **Run administrator** 
    - Tiếp theo bấm chuột phải vào **INSTALL FULL.cmd** chọn **Run administrator**
-   - Rồi cài lại như cũ.
+   - Chạy file cài đặt: ABBYY.FineReader.PDF.16.v16.0.14.7295-full.exe
+- Cài xong chạy file: RESTORE SERVICE.cmd dưới quyền **Run as admimistrator!** một lần nữa.
+- Xong!
 - Giao diện:
 - ![image](https://github.com/BsNgChiThanh/ABBYY/assets/82578024/6b6108e2-14f6-43ea-80b6-25ce69857988)
 - ![image](https://github.com/BsNgChiThanh/ABBYY/assets/82578024/feca1e2b-9e90-49d7-8226-d8d5953fe056)
