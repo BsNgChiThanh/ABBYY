@@ -11,7 +11,11 @@ Tác giả: Nguyễn Chí Thành
 
 - Chạy file cài đặt: ABBYY.FineReader.PDF.16.v16.0.14.7295-full.exe
 - Cài xong chạy file: RESTORE SERVICE.cmd dưới quyền **Run as admimistrator!**
-- Trường hợp lỗi không cài được thì bấm chuột phải vào **RESTORE SERVICE.cmd** chọn **Run administrator** rồi cài lại như cũ.
+- Trường hợp lỗi không cài được thì:
+   - Cài C++ 2015-2022 Redistributable x64 (x86)
+   - Sau đó bấm chuột phải vào **RESTORE SERVICE.cmd** chọn **Run administrator**
+   - Tiếp theo bấm chuột phải vào **INSTALL FULL.cmd** chọn **Run administrator**
+   - Rồi cài lại như cũ.
 - Giao diện:
 - ![image](https://github.com/BsNgChiThanh/ABBYY/assets/82578024/6b6108e2-14f6-43ea-80b6-25ce69857988)
 - ![image](https://github.com/BsNgChiThanh/ABBYY/assets/82578024/feca1e2b-9e90-49d7-8226-d8d5953fe056)
