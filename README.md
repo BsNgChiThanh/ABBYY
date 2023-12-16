@@ -2,9 +2,9 @@ Tác giả: Nguyễn Chí Thành
 
 ![IMG_1674314482411_1674314628494](https://user-images.githubusercontent.com/82578024/231749370-cff3f452-4349-46bd-80e4-dd85653ca27f.jpg)
 
-# [ABBYY 16](https://storage.live.com/downloadfiles/V1/Zip?application=1141147648) #
+# [ABBYY 16](https://1drv.ms/f/s!AvB3yOWQ9AZPgTgHmZtSctSDNYh6?e=IvfzgK) #
 
-- Download [tại đây](https://storage.live.com/downloadfiles/V1/Zip?application=1141147648) hoặc [tại đây](https://1drv.ms/f/s!AvB3yOWQ9AZPgTgHmZtSctSDNYh6?e=nn7cbJ)
+- Download [tại đây](https://1drv.ms/f/s!AvB3yOWQ9AZPgTgHmZtSctSDNYh6?e=IvfzgK) hoặc [tại đây](https://1drv.ms/f/s!AvB3yOWQ9AZPgTgHmZtSctSDNYh6?e=nn7cbJ)
 - Giải nén ta được:
    - ![image](https://github.com/BsNgChiThanh/ABBYY/assets/82578024/32dcf941-3688-4f87-8677-65cc0386841d)
    - Cài C++ 2015-2022 Redistributable x64. Tải về [tại đây](https://public.bl.files.1drv.com/y4mjMU1f2Bx90O64wErFdFeTKSz6WdIWOAzn6KLeOQHWYc9hCyYuSBzj-_0-lGKcOCpYS4LWvvuauODS9D8sfSIqJWmsPbkGoxQ4h-ztbWAEn-9gWGBnKfy1bn3s-w3zm3a2AD5ENWtaenCcFCxuFHQjKmhsBCTfNRxxyo_i-RzBQCmKHVLJppGnMwPdh0PA7AeeKLJgcEwiL5073lYI41YVSu8HrD2PbrNNrmEgHnjM2E?AVOverride=1)
