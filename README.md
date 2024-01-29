@@ -14,6 +14,7 @@ Tác giả: Nguyễn Chí Thành
    - Chạy file cài đặt: ABBYY.FineReader.PDF.16.v16.0.14.7295-full.exe
 - Cài xong chạy file: RESTORE SERVICE.cmd dưới quyền **Run as admimistrator!** một lần nữa.
 - Xong!
+- Trường hợp vẫn không thể cài đặt được bản ABBYY16, vẫn còn có một giải pháp là bạn download bản ABBYY15 bên dưới cài đặt bản dùng thử xong, khi đã hoàn thành cài xong bản dùng thử thì bạn gở bỏ bản dùng thử này liền, sau đó cài lại bản ABBYY16 là xong! (lý do nó còn một số C++ đặc biệt của nó)
 - Giao diện:
 - ![image](https://github.com/BsNgChiThanh/ABBYY/assets/82578024/6b6108e2-14f6-43ea-80b6-25ce69857988)
 - ![image](https://github.com/BsNgChiThanh/ABBYY/assets/82578024/feca1e2b-9e90-49d7-8226-d8d5953fe056)
